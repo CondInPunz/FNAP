@@ -20,7 +20,7 @@ GAME_OVER = 3
 def main():
     pygame.init()
     pygame.mixer.init()
-    pygame.display.set_caption('FNAF')
+    pygame.display.set_caption('FNAP')
     clock = pygame.time.Clock()
 
     screen = pygame.display.set_mode((WIDTH, HEIGHT))
